@@ -1,4 +1,23 @@
 .
+
+/* GENERIC STYLING */
+.body {
+  color: #333;
+  font-size: 62.5%;
+  line-height: 1;
+}
+
+.container  {
+  max-width: 120em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 40px;
+  position: relative
+}
+
+
+/* NAVIGATION BAR */
+
 #nav.nav-banner, nav.nav-banner {
   margin-top: 20px;
   margin-bottom: 0;
@@ -18,3 +37,17 @@
   white-space: nowrap
 }
 
+#nav.nav-banner li a:hover, nav.nav-banner li a:hover {
+  background-color: #0186e4;
+  color: #fff
+}
+
+/* FOOTER */
+.footer  {
+  padding: 36px 12px 0;
+  text-align: center;
+  font-size: 12px;
+  border-top: 1px solid #cacaca;
+  color: #fff;
+  background-color: #0168b3
+}
