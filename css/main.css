@@ -11,7 +11,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   border: 0;
   outline: 0;
   vertical-align: baseline;
-  background: transparent
+  background: transparent;
 }
 
 
@@ -26,7 +26,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   margin-left: auto;
   margin-right: auto;
   padding: 0 40px;
-  position: relative
+  position: relative;
 }
 
 
@@ -40,7 +40,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 #header, header {
   padding-top: 14px;
-  z-index: 100
+  z-index: 100;
 }
 
 /* NAVIGATION BAR */
@@ -61,12 +61,12 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   color: #fff;
   font-size: 16px;
   padding: 16px;
-  white-space: nowrap
+  white-space: nowrap;
 }
 
 #nav.nav-banner li a:hover, nav.nav-banner li a:hover {
   background-color: #0186e4;
-  color: #fff
+  color: #fff;
 }
 
 /* FOOTER */
@@ -76,14 +76,14 @@ footer  {
   font-size: 12px;
   border-top: 1px solid #cacaca;
   color: #fff;
-  background-color: #0168b3
+  background-color: #0168b3;
 }
 
 footer .site-footer-nav {
-  margin: 36px auto
+  margin: 36px auto;
 }
 
 footer .site-footer-copyright {
   margin: 36px auto;
-  line-height: 2em
+  line-height: 2em;
 }
