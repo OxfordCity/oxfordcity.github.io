@@ -16,8 +16,8 @@ To be used for local CSS changes required for main pages
   float: left;
   width: 28.33%;
   margin: 2.5%;
-  background-color: #f5f5f5;
-  color: #bdc3c7;
+  background-color: rgb(229, 20, 16);
+  color: #fff;
 }
 
 #gallery li a p {
