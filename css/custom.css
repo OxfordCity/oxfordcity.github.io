@@ -34,3 +34,8 @@ To be used for local CSS changes required for main pages
 #gallery a:hover  {
   color: fff;
 }
+
+body.controller_custom_content .siteContentWrapper {
+  max-width: 80%;
+  margin: auto;
+}
