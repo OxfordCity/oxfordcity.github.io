@@ -20,7 +20,7 @@ To be used for local CSS changes required for main pages
   color: #fff;
 }
 
-#gallery li a p {
+#gallery li a p a:hover {
   margin: 0;
   padding: 5%;
   font-size: 2em;
