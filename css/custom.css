@@ -35,7 +35,7 @@ To be used for local CSS changes required for main pages
   color: fff;
 }
 
-body.controller_custom_content .siteContentWrapper {
-  max-width: 80%;
-  margin: auto;
+.tile-grid {
+    margin: 1em auto 1em auto;
+    max-width: 80%;
 }
